@@ -79,16 +79,16 @@ const Navbar = ({setData,cart}) => {
              className="items">Tablets</div>
             <div
             onClick={()=>filterByPrice(29999)}
-            className="items">{">="}29999</div>
+            className="items">{">"}29999</div>
             <div
             onClick={()=>filterByPrice(49999)}
-            className="items">{">="}49999</div>
+            className="items">{">"}49999</div>
             <div
             onClick={()=>filterByPrice(69999)}
-            className="items">{">="}69999</div>
+            className="items">{">"}69999</div>
             <div
             onClick={()=>filterByPrice(89999)}
-            className="items">{">="}89999</div>
+            className="items">{">"}89999</div>
             
             </div>
           )
