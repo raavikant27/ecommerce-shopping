@@ -41,7 +41,7 @@ input::placeholder{
     display: flex;
     justify-content: space-between;
     padding: 15px;
-    background-color: rgba(0, 255, 0, 0.5);
+    background-color: rgba(0,255,0,0.5);
     color: white;
     font-weight: bold;
 }
